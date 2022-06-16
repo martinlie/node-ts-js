@@ -1,5 +1,7 @@
 // run `node index.js` in the terminal
 
-import * as tf from '@tensorflow/tfjs';
+// import * as tf from '@tensorflow/tfjs';
+const tf = require('@tensorflow/tfjs');
 
 console.log(`Hello Node.js v${process.versions.node}!`);
+console.log(tf.version.tfjs);
