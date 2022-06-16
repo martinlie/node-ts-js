@@ -2,5 +2,4 @@
 
 import * as tf from '@tensorflow/tfjs';
 
-
 console.log(`Hello Node.js v${process.versions.node}!`);
