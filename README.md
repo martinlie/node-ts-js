@@ -7,6 +7,3 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-jbe5w9)
 
-JS Libs:
-
-- lodash
